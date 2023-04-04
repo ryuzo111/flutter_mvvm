@@ -34,3 +34,5 @@ samples, guidance on mobile development, and a full API reference.
 - watch 状態変更でwidgetを更新
 - read 状態変更でwidgetを更新しない
 - select データ内の特定の値が更新した時のみwidgetを更新する
+
+StateNotifierとは
