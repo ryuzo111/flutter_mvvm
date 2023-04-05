@@ -36,3 +36,9 @@ samples, guidance on mobile development, and a full API reference.
 - select データ内の特定の値が更新した時のみwidgetを更新する
 
 StateNotifierとは
+
+
+## MVVMパターン
+- Model ビジネスロジック
+- View 画面に表示する情報
+- ViewModel ModelとViewを結びつける
